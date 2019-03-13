@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <id type="integer">6</id>
+  <name>Ashutosh</name>
+  <email>admin@testapp.com</email>
+  <password>5d41402abc4b2a76b9719d911017c592</password>
+  <confirm-password>ab311d308738b3145c34998285b5f247</confirm-password>
+  <mobile-no>78967</mobile-no>
+  <created-at>2018-12-19T12:41:48.571Z</created-at>
+  <updated-at>2018-12-19T12:41:48.571Z</updated-at>
+  <address>TCSL, VYDEHI, FIRST FLOOR, RC-1 BLOCK, 82 EPIP, WHITEFIELD ROAD</address>
+</hash>

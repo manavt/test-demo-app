@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <id type="integer">7</id>
+  <name>Raj</name>
+  <email>rajasbe2012@gmail.com</email>
+  <password>54fade71f3a3bc6be01ca5b75e9ce72f</password>
+  <confirm-password>54fade71f3a3bc6be01ca5b75e9ce72f</confirm-password>
+  <mobile-no>87644</mobile-no>
+  <created-at>2018-12-20T14:37:47.508Z</created-at>
+  <updated-at>2018-12-20T14:37:47.508Z</updated-at>
+  <address>TCSL, VYDEHI, FIRST FLOOR, RC-1 BLOCK, 82 EPIP, WHITEFIELD ROAD</address>
+</hash>

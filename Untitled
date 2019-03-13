@@ -1,0 +1,37 @@
+
+
+kickstart.pxe.server.ip.address = 17.172.7.8
+kickstart.server.ip.address = 17.172.7.8
+
+kickstart.snippets = (
+
+-0-manvendra_tripathi@st11a00is-shell001:~ $  vd expand qs31p01ic-ztdg12161001 | grep kick
+
+
+kickstart.pxe.server.ip.address = 10.35.223.82
+kickstart.server.ip.address = 17.172.5.17
+
+kickstart.pxe.server.ip.address = 10.35.223.82
+	kickstart.server.ip.address = 17.172.5.17
+
+
+  fatal: [qs31p01ic-ztdg12161001]: Completed! => {
+
+  fatal: [qs31p01ic-ztdg12160601]: Completed! => {
+
+  fatal: [qs31p01ic-ztdg12160401]: Completed! => {
+  fatal: [qs31p01ic-ztdg12151801]: Completed! => {
+  fatal: [qs31p01ic-ztdg12151201]: Completed! => {
+  fatal: [qs31p01ic-ztdg12151001]: FAILED! => {
+  fatal: [qs31p00ic-ztdg12161501]: FAILED! => {
+
+
+		qs31p01ic.service.edge
+	)
+	kickstart.pxe.server.ip.address = 17.172.7.8
+	kickstart.server.ip.address = 17.172.7.8
+	ntp.pool.
+
+
+
+-0-manvendra_tripathi@st11a00is-shell001

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <id type="integer">11</id>
+  <name>from Terminal</name>
+  <email>terminal100@gmail.com</email>
+  <password>c46bbc6cca98c3992f0ce706b57b0844</password>
+  <confirm-password>c46bbc6cca98c3992f0ce706b57b0844</confirm-password>
+  <mobile-no>123456789</mobile-no>
+  <created-at>2019-01-02T15:51:45.603Z</created-at>
+  <updated-at>2019-01-02T15:51:45.603Z</updated-at>
+  <address>Bomanahalli</address>
+</hash>
