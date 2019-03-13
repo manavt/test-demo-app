@@ -11,7 +11,7 @@ gem 'rails', '~> 5.1.6', '>= 5.1.6.1'
 # Use sqlite3 as the database for Active Record
 gem "better_errors"
 gem "binding_of_caller"
-gem 'sekar', '~> 0.0.1'
+#gem 'sekar', '~> 0.0.1'
 gem 'omniauth-facebook'
 gem 'will_paginate'
 #gem 'sqlite3'
